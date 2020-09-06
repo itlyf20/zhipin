@@ -1,0 +1,22 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+.inputs{
+    margin-top: 140px;
+}
+.box{
+    background-color:rgb(196, 159, 159);
+    position:absolute; 
+    width:100%; 
+    height:100%;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+}
+.errmsg{
+    color: red;
+    text-align: center;
+    font-size: 18px;
+}
